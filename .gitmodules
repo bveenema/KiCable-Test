@@ -1,0 +1,4 @@
+[submodule "KiCable"]
+	path = KiCable
+	url = https://github.com/bveenema/KiCable.git
+	branch = master

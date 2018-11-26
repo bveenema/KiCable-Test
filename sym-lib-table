@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name KiCable)(type Legacy)(uri C:/KiCad-Cabling/lib/KiCable.lib)(options "")(descr ""))
+  (lib (name KiCable-GenericConnector)(type Legacy)(uri C:/KiCad-Cabling/lib/KiCable-GenericConnector.lib)(options "")(descr ""))
+)
