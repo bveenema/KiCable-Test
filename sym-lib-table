@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name KiCable)(type Legacy)(uri C:/KiCad-Cabling/lib/KiCable.lib)(options "")(descr ""))
-  (lib (name KiCable-GenericConnector)(type Legacy)(uri C:/KiCad-Cabling/lib/KiCable-GenericConnector.lib)(options "")(descr ""))
+  (lib (name KiCable_Housing_Generic)(type Legacy)(uri ${KIPRJMOD}/KiCable/lib/KiCable_Housing_Generic.lib)(options "")(descr ""))
+  (lib (name KiCable_Housing_JST)(type Legacy)(uri ${KIPRJMOD}/KiCable/lib/KiCable_Housing_JST.lib)(options "")(descr ""))
+  (lib (name KiCable_Terminal_Generic)(type Legacy)(uri ${KIPRJMOD}/KiCable/lib/KiCable_Terminal_Generic.lib)(options "")(descr ""))
 )
